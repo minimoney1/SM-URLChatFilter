@@ -72,7 +72,14 @@ public OnPluginStart()
 
 	ParseWhiteList();
 }
-
+/**
+ *
+ * Credit for auto updater functions goes to Dr. Mckay
+ *
+ * @note PLEACE
+ * @note YOU ARE BIRD
+ *
+ */
 
 public OnAllPluginsLoaded()
 {
