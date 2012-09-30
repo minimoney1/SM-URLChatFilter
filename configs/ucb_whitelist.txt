@@ -1,0 +1,11 @@
+"URL Chat Block Whitelist"
+{
+	"1"
+	{	
+		"url" "http://forums.alliedmods.net/"
+	}
+	"2"
+	{	
+		"url" "google.com"
+	}
+}
